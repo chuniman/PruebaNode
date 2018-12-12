@@ -1,0 +1,18 @@
+{
+  "name": "tweetproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "backpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backpack-core": "^0.8.3",
+    "bcrypt": "^3.0.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16"
+  }
+}
